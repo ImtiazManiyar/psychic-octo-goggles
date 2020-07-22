@@ -1,8 +1,1 @@
 Yadav
-<<<<<<< HEAD
-
-
-Hello From local system 
-=======
-hello from global system 
->>>>>>> ea79f1fd57540fe9f68a7b320c867db9f2b96fec
